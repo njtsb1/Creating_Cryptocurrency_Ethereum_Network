@@ -3,7 +3,6 @@ Daily learning
 # Creating Your First Cryptocurrency on the Ethereum Network
 
 Project developed at the Bootcamp Blockchain Specialist Training, under the guidance of specialist [Cassiano Peres](https://github.com/cassianobrexbit/ "Cassiano Peres").
-
 Learning how to develop tokens in the ERC-20 standard,
 with Solidity and using smart contracts on the Ethereum network.
 
